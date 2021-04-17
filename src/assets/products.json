@@ -6,7 +6,22 @@
   },
   {
     "id": 2,
-    "artistName": "Regular Expressionists",
+    "artistName": "Dorks",
     "albumName": "Top, Right, Bottom, Left"
+  },
+  {
+    "id": 3,
+    "artistName": "TOBY and the Cats",
+    "albumName": "Meowzers!"
+  },
+  {
+    "id": 4,
+    "artistName": "TOBY and the Cats",
+    "albumName": "Give Me All Your Milk Lovin'"
+  },
+  {
+    "id": 5,
+    "artistName": "Tom Petty and the Dorkbreakers",
+    "albumName": "Stop Dragging My Neck Around"
   }
 ]
